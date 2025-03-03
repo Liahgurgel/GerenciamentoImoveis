@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmImovel.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/dao/LocacaoDAO.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/model/Imovel.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmLocacao.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmInquilino.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/model/Casa.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/dao/ApartamentoDAO.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/model/Locacao.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmListagemLocacao.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmContrato.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/model/Apartamento.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmListagemImoveis.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/dao/InquilinoDAO.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/model/Contrato.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/dao/ContratoDAO.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/dao/CasaDAO.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmProprietario.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/model/Inquilino.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/view/frmPrincipal.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/model/Proprietario.java</file>
+            <file>file:/C:/Users/Josemar/Documents/NetBeansProjects/GerenciamentoMoveis/src/gerenciamentomoveis/dao/ProprietarioDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
